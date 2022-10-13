@@ -1,9 +1,11 @@
 {
   "posts": [
     {
-     "id": 1,
+      "id": 1,
+      "title": "hello",
       "nome": "Intel I5",
-      "price": 3200
+      "price": 3200,
+      "Rate": "3/5"
     }
   ],
   "profile": {
