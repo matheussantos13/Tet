@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+     "id": 1,
+      "nome": "Intel I5",
+      "price": 3200,
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
